@@ -125,3 +125,4 @@ Goods = review[(review['Service'].isin(['Yes'])) & (review['Warranty'] > 4)]
 
 Cheap = review[(review['Price'] < 300) & (review['Stock'] > 5)]
 #print(Cheap)
+
