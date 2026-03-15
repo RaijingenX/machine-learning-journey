@@ -1,4 +1,4 @@
-# Topic  : Pandas - Indexing, Selection, and Assigning
+# Topic  : Indexing, Selection, and Assigning
 # Source : Kaggle Learn Pandas
 # Explanation : Learn how to select and assign values in a DataFrame using various indexing techniques. This includes selecting specific columns, rows, and applying conditions to filter data.
 
